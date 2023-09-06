@@ -1,0 +1,14 @@
+---
+title: "R for Data Science (2e): Activity in Sec Math 17"
+author: "Klezel Bantiyan"
+format: html
+editor: visual
+---
+
+# Introduction
+
+## What Will You Learn
+
+Review the pipeline because sir will make a part of our exam.
+
+![Pipeline](r4dspic/r4dspic1.png)
